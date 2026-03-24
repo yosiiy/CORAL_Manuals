@@ -5,6 +5,14 @@
 
 ---
 
+## 📹 操作手順動画
+
+全体の流れは以下のデモ動画をご参照ください。
+
+![video](../99_Attachments/coral_club_registration_mobile.webp)
+
+---
+
 ## 📝 登録手順
 
 1. ログイン後の画面左上メインメニューを開き、「Join club」をクリックします。
@@ -24,5 +32,3 @@
 5. 一番下の **「Send」** ボタンをクリックして登録申請を送信します。
 6. 「Success...」といった画面上に申請完了のメッセージが出れば、クラブへの参加申請は完了（承認待ち状態）となります。
 
-**▼クラブ登録手順デモ動画**
-![video](../99_Attachments/coral_club_registration_mobile.webp)
