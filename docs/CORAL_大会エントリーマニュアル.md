@@ -13,7 +13,7 @@
 
 全体の流れは以下のデモ動画をご参照ください。
 
-![video](../../99_Attachments/coral_tournament_entry.webp)
+![video](../99_Attachments/coral_tournament_entry.webp)
 
 ---
 
@@ -26,7 +26,7 @@
 1. 画面左上のメインメニューを開くか、プロフィール画面を下にスクロールします。
 2. 表示される項目から **「JOIN TOURNAMENT」** をクリックします。
 
-   ![JOIN TOURNAMENT メニュー](../../99_Attachments/coral_join_tournament_menu.png)
+   ![JOIN TOURNAMENT メニュー](../99_Attachments/coral_join_tournament_menu.png)
 
 ### Step 2: 参加する大会を検索する
 
@@ -35,7 +35,7 @@
 1. 画面付近にある「Search by name」テキストボックスに **「kansai」** と入力します。
 2. 検索結果として画面下部に **「KANSAI OPEN」** が表示されるので、そちらをクリックします。
 
-   ![大会検索結果](../../99_Attachments/coral_kansai_open_search.png)
+   ![大会検索結果](../99_Attachments/coral_kansai_open_search.png)
 
 ### Step 3: 種目の選択とオプション設定
 
@@ -55,7 +55,7 @@
 
 1. すべての設定が完了したら、画面最下部にある **「REGISTER」** ボタンをクリックして登録を完了します。
 
-   ![エントリー最終確認](../../99_Attachments/coral_final_entry_confirmation.png)
+   ![エントリー最終確認](../99_Attachments/coral_final_entry_confirmation.png)
 
 2. 登録が完了すると、ボタンの表示が **「UPDATE」** に変わります。
 

@@ -18,11 +18,11 @@
    - **Phone（電話番号の登録）:**
      ここは少し入力が難しい箇所です。まず左側の国旗（国コード）部分をタップし、表示される検索ボックスに **「Japan」** と検索・入力して日本（+81）を選択します。その後、右側に電話番号を入力してください。
 
-     ![電話番号 国コード検索画面](../../99_Attachments/coral_club_phone_search.png)
+     ![電話番号 国コード検索画面](../99_Attachments/coral_club_phone_search.png)
 
 4. **「I agree with terms and conditions」** のチェックボックスにチェックを入れます。
 5. 一番下の **「Send」** ボタンをクリックして登録申請を送信します。
 6. 「Success...」といった画面上に申請完了のメッセージが出れば、クラブへの参加申請は完了（承認待ち状態）となります。
 
 **▼クラブ登録手順デモ動画**
-![video](../../99_Attachments/coral_club_registration_mobile.webp)
+![video](../99_Attachments/coral_club_registration_mobile.webp)

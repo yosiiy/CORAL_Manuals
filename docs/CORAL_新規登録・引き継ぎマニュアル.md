@@ -11,7 +11,7 @@
 
 全体の流れは以下のデモ動画をご参照ください。
 
-![video](../../99_Attachments/coral_mobile_setup.webp)
+![video](../99_Attachments/coral_mobile_setup.webp)
 
 ---
 
@@ -35,7 +35,7 @@
 
 サインアップ後、「Existing accounts with similar name」という、**あなたの名前と似ている既存アカウントのリスト**が表示される画面（Take Over Account画面）に移行します。
 
-![アカウント引き継ぎ画面キャプチャ](../../99_Attachments/take_over_account_mobile_1773735867026.png)
+![アカウント引き継ぎ画面キャプチャ](../99_Attachments/take_over_account_mobile_1773735867026.png)
 
 ここでの対応は、リストに自分のアカウントが存在するかどうかで2パターンに分かれます。
 
@@ -43,18 +43,18 @@
 
 もし、ITSFなどの過去の成績データがあり、リスト内にご自身の名前・国旗・写真等と一致するアカウントが見つかった場合はこちらの操作を行います。
 
-![アカウント引き継ぎ選択画面](../../99_Attachments/take_over_account_listing_1773736705531.png)
+![アカウント引き継ぎ選択画面](../99_Attachments/take_over_account_listing_1773736705531.png)
 
 1. 該当するアカウント（例: Ayako YAMADA）の横にある **「Recover this account」** をクリックします。
 2. 確認画面が表示されるので **「CONFIRM」** をクリックして引き継ぎ申請を行います。
 3. 申請が完了すると、「Success!」という案内の画面に移行します。
 
-![アカウント引き継ぎ申請完了画面](../../99_Attachments/take_over_success_pending_1773736749797.png)
+![アカウント引き継ぎ申請完了画面](../99_Attachments/take_over_success_pending_1773736749797.png)
 
 1. 申請後は管理者の **「承認待ち」** ステータスとなり、確認用のメールが届きますのでメールフォルダをご確認の上、そのまましばらくお待ちください。
 
 **▼アカウント引き継ぎ専用デモ動画**
-![video](../../99_Attachments/coral_recovery_ayako_mobile.webp)
+![video](../99_Attachments/coral_recovery_ayako_mobile.webp)
 
 #### 【パターンB】 リストに自分のアカウントがない場合（完全新規）
 
@@ -64,7 +64,7 @@
 2. 右下の **「CREATE NEW ACCOUNT」** ボタンをクリックします。
 3. 処理が完了すると、自動的にCORALにログインした状態となり、**ホーム画面（Profile画面）** に切り替わります。
 
-![新規プロフィール画面キャプチャ](../../99_Attachments/profile_page_mobile_1773735933637.png)
+![新規プロフィール画面キャプチャ](../99_Attachments/profile_page_mobile_1773735933637.png)
 
 これで、新規アカウントの作成および初期設定は完了です！
 
