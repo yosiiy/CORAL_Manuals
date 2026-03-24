@@ -18,17 +18,38 @@
 1. ログイン後の画面左上メインメニューを開き、「Join club」をクリックします。
    - ※または、ログイン直後の画面下部にある **「JOIN CLUB」** ボタンからも同様に進むことができます。
 2. 検索欄に **「National Club JTSF」** と入力し、該当するクラブの **「JOIN」** ボタンをクリックします。
-3. 申請フォームにて、各種情報を入力します：
-   - **Choose a membership type:** 今回は **「International」** を選択します。
-   - **Player information:**
-     - 国籍（Country of sport nationality）はリストから **「Japan」** を選択してください。
-     - その他の項目（**Gender**、**Birth Year**）もご自身の情報を設定します。
-   - **Phone（電話番号の登録）:**
-     ここは少し入力が難しい箇所です。まず左側の国旗（国コード）部分をタップし、表示される検索ボックスに **「Japan」** と検索・入力して日本（+81）を選択します。その後、右側に電話番号を入力してください。
+3. 申請フォームにて、画面の項目に沿って順番に情報を入力していきます。
 
-     ![電話番号 国コード検索画面](../99_Attachments/coral_club_phone_search.png)
+#### Choose a membership type
 
-4. **「I agree with terms and conditions」** のチェックボックスにチェックを入れます。
-5. 一番下の **「Send」** ボタンをクリックして登録申請を送信します。
-6. 「Success...」といった画面上に申請完了のメッセージが出れば、クラブへの参加申請は完了（承認待ち状態）となります。
+今回は **「International」** を選択します。
 
+![メンバーシップ選択](../99_Attachments/coral_club_membership_type.png)
+
+#### Requirements
+
+続いて、プレイヤー情報の要件を入力します。
+
+**Player information:**
+
+- 国籍（Country of sport nationality）はリストから **「Japan」** を選択してください。
+- その他の項目（**Gender**、**Birth Year** など）もご自身の情報を設定します。
+![プレイヤー情報入力](../99_Attachments/coral_club_requirements.png)
+
+**Phone（電話番号の登録）:**
+ここは少し入力が難しい箇所です。まず左側の国旗（国コード）部分をタップし、表示される検索ボックスに **「Japan」** と検索・入力して日本（+81）を選択します。その後、右側に電話番号を入力してください。
+
+![電話番号 国コード検索画面](../99_Attachments/coral_club_phone_search.png)
+
+1. **「I agree with terms and conditions」** のチェックボックスにチェックを入れます。
+2. 一番下の **「Send」** ボタンをクリックして登録申請を送信します。
+3. 「Success...」といった画面上に申請完了のメッセージが出れば、クラブへの参加申請は完了（承認待ち状態）となります。
+
+   ![申請完了画面](../99_Attachments/coral_club_registration_success.png)
+
+---
+
+## ▶ 次のステップ
+
+クラブへの登録（または引き継ぎ申請）が完了したら、実際に大会にエントリーしてみましょう！
+👉 **[CORAL 大会エントリーマニュアルへの手順を読む](CORAL_大会エントリーマニュアル.md)**
